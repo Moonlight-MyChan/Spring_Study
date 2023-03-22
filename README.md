@@ -1,1 +1,1 @@
-# Spring_Study
+Spring 공부 기록용
